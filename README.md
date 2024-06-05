@@ -1,6 +1,8 @@
 # Fractal Fun
 
-![mickey mouse](demo_images/mickey_mouse.bmp)
+<!-- ![mickey mouse](demo_images/mickey_mouse.bmp) -->
+
+![cool spinny](demo_images/movie.mp4)
 
 [//]: <> (.x = 0.36, .y = 0.12)
 
